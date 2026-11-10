@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Gale Reef",
+        "image": "reef1.jpg",
+        "description": "<p>Gale Reef - Explore vibrant coral formations and crystal-clear waters along our premier diving reef location.</p><p>Ideal for both beginner and experienced divers looking for an unforgettable underwater getaway.</p>"
+    },
+    {
+        "name": "Dawson's Reef",
+        "image": "reef2.jpg",
+        "description": "<p>Dawson's Reef - Discover abundant marine life, sea turtles, and shallow reef shelves teeming with tropical fish.</p><p>Includes guided reef excursions and full equipment rentals right from the resort Marina.</p>"
+    },
+    {
+        "name": "Claire's Reef",
+        "image": "reef3.jpg",
+        "description": "<p>Claire's Reef - Experience deep-water coral walls and calm turquoise lagoons along our scenic southern reef.</p><p>Enjoy full-day boat charters, reef photography tours, and sunset beachside dining.</p>"
+    }
+]
